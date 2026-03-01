@@ -10,13 +10,13 @@
 
 - 💬 Ask me about **react**
 
-- 📫 How to reach me **ayushkumar90657@gmail.com**
+- 📫 How to reach me ****
 
 - ⚡ Fun fact **I think I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ayushkumar74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushkumar74" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ayushkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushkumar74" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@ayushkumar90657" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ayushkumar90657" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/4ttw7vaf74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="4ttw7vaf74" height="30" width="40" /></a>
 </p>
